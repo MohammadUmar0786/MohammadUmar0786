@@ -37,6 +37,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" />
 </p>
 
+## 📊 GitHub Stats
+
+![Md Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+
+
 
 <!--
 **MohammadUmar0786/MohammadUmar0786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
