@@ -55,8 +55,8 @@
 
 ## 🏆 GitHub Trophies
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=MohammadUmar0786&theme=onedark&no-frame=true&margin-w=15" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohammadUmar0786&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 
