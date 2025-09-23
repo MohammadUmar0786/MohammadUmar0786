@@ -39,7 +39,7 @@
 
 ## 📊 GitHub Stats
 
-![Md Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Md Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadUmar0786show_icons=true&theme=radical)
 
 
 
