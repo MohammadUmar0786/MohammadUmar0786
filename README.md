@@ -49,7 +49,7 @@
 
 ## 🏆 Most Used Languages
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadUmar0786&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
