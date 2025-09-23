@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">👋 Hello, Welcome to my profile</h1>
 
-<h2>🚀 About Me</h2>
+## 🚀 About Me
 
 - 💻 Learning web development
 - Practiced & learned HTML, CSS & JS through various projects
