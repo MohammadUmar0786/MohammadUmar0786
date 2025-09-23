@@ -41,6 +41,13 @@
 
 ![Md Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadUmar0786&show_icons=true&theme=radical)
 
+## 🔥 Current Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MohammadUmar0786&theme=radical" alt="GitHub Streak" />
+</p>
+
+
 
 
 
