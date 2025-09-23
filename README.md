@@ -47,6 +47,13 @@
   <img src="https://streak-stats.demolab.com/?user=MohammadUmar0786&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+## 🏆 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadUmar0786&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+
 
 
 
