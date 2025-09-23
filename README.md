@@ -53,6 +53,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadUmar0786&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+## 🏆 GitHub Trophies
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=MohammadUmar0786&theme=onedark&no-frame=true&margin-w=15" />
+</p>
 
 
 
