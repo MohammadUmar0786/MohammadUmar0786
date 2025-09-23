@@ -44,9 +44,8 @@
 ## 🔥 Current Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MohammadUmar0786&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MohammadUmar0786&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
 
 
 
