@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" alt="Mohammad Umar | Web Developer" />
+</p>
+
 
 <!--
 **MohammadUmar0786/MohammadUmar0786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
