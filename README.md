@@ -8,7 +8,7 @@
 - 💻 Learning web development
 - Practiced & learned HTML, CSS & JS through various projects
 - Currently learning and working on **React.js Projects**   
-- 🧠 Currenlty main focus on **Front-End Development** and **Problem Solving**
+- 🧠 Currently main focus on **Front-End Development** and **Problem Solving**
 - 📢 Sharing learning progress on LinkedIn regularly
 
   ## 🧰 Tools & Technologies
