@@ -6,9 +6,10 @@
 ## 🚀 About Me
 
 - 💻 Learning web development
-- Practiced & learned HTML, CSS & JS through various projects
+- Practiced & learned Frontend Technologies ( HTML, CSS, Javascript, Typescript, React & Talwind ) through various projects
 - Currently learning and working on **React.js Projects**   
-- 🧠 Currently main focus on **Front-End Development** and **Problem Solving**
+- 👉 Open for Frontend Dev Roles (Any Location)
+- 🧠 Currently Learning Backend and Revising Frontend
 - 📢 Sharing learning progress on LinkedIn regularly
 
   ## 🧰 Tools & Technologies
