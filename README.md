@@ -60,9 +60,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MohammadUmar0786&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
-
-
-
 <!--
 **MohammadUmar0786/MohammadUmar0786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
