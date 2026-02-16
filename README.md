@@ -7,9 +7,8 @@
 
 - 💻 Learning web development
 - Practiced & learned Frontend Technologies ( HTML, CSS, Javascript, Typescript, React & Talwind ) through various projects
-- Currently learning and working on **React.js Projects**   
+- 🧠 Currently Learning Backend and Revising Frontend   
 - 👉 Open for Frontend Dev Roles (Any Location)
-- 🧠 Currently Learning Backend and Revising Frontend
 - 📢 Sharing learning progress on LinkedIn regularly
 
   ## 🧰 Tools & Technologies
