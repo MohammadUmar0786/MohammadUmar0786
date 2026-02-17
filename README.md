@@ -51,14 +51,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=MohammadUmar0786&theme=tokyonight)
 
 
-
-📈 GitHub Profile Card Widget
-
-<div id="github-card" data-username="YOUR_USERNAME"></div>
-<script src="https://piotrl.github.io/github-profile-card/dist/gh-profile-card.min.js"></script>
-
-
-
 ## 🏆 Most Used Languages
 
 ![Top Languages](https://readme-stats.vercel.app/api/top-langs/?username=MohammadUmar0786&layout=compact&theme=tokyonight)
@@ -67,9 +59,8 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohammadUmar0786&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=MohammadUmar0786&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/MohammadUmar0786)
+
 
 <!--
 **MohammadUmar0786/MohammadUmar0786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
