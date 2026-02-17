@@ -39,7 +39,7 @@
 
 📊 GitHub Stats Card (General Stats)
 
-[![MohammadUmar0786’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammadUmar0786&show_icons=true&theme=radical)](https://github.com/MohammadUmar0786)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MohammadUmar0786&show_icons=true&theme=tokyonight)
 
 
 ## 📊 GitHub Stats
