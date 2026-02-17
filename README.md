@@ -37,9 +37,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" />
 </p>
 
+
 📊 GitHub Stats Card (General Stats)
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MohammadUmar0786&show_icons=true&theme=tokyonight)
+
 
 
 ## 🔥 Current Streak
@@ -47,9 +49,11 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=MohammadUmar0786&theme=tokyonight)
 
 
+
 ## 🏆 Most Used Languages
 
 ![Top Languages](https://readme-stats.vercel.app/api/top-langs/?username=MohammadUmar0786&layout=compact&theme=tokyonight)
+
 
 
 ## 🏆 GitHub Trophies
