@@ -44,15 +44,13 @@
 
 ## 🔥 Current Streak
 
-<p>
- ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohammadUmar0786&layout=compact&theme=tokyonight)
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=MohammadUmar0786&theme=tokyonight)
+
 
 ## 🏆 Most Used Languages
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadUmar0786&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohammadUmar0786&layout=compact&theme=tokyonight)
+>
 
 ## 🏆 GitHub Trophies
 
