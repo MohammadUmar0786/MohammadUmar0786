@@ -11,6 +11,7 @@
 - 👉 Open for Frontend Dev Roles (Any Location)
 - 📢 Sharing learning progress on LinkedIn regularly
 
+
   ## 🧰 Tools & Technologies
 
 <p>
@@ -38,6 +39,7 @@
 </p>
 
 
+
 📊 GitHub Stats Card (General Stats)
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MohammadUmar0786&show_icons=true&theme=tokyonight)
@@ -47,6 +49,13 @@
 ## 🔥 Current Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MohammadUmar0786&theme=tokyonight)
+
+
+
+📈 GitHub Profile Card Widget
+
+<div id="github-card" data-username="YOUR_USERNAME"></div>
+<script src="https://piotrl.github.io/github-profile-card/dist/gh-profile-card.min.js"></script>
 
 
 
