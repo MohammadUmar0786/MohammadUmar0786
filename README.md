@@ -42,14 +42,10 @@
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MohammadUmar0786&show_icons=true&theme=tokyonight)
 
 
-## 📊 GitHub Stats
-
-![Md Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadUmar0786&show_icons=true&theme=radical)
-
 ## 🔥 Current Streak
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=MohammadUmar0786&theme=tokyonight" alt="GitHub Streak" />
+ ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohammadUmar0786&layout=compact&theme=tokyonight)
 </p>
 
 ## 🏆 Most Used Languages
