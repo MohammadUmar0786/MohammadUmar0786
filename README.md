@@ -49,8 +49,8 @@
 
 ## 🏆 Most Used Languages
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohammadUmar0786&layout=compact&theme=tokyonight)
->
+![Top Languages](https://readme-stats.vercel.app/api/top-langs/?username=MohammadUmar0786&layout=compact&theme=tokyonight)
+
 
 ## 🏆 GitHub Trophies
 
