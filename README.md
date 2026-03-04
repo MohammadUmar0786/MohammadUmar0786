@@ -56,10 +56,9 @@
 ![Top Languages](https://readme-stats.vercel.app/api/top-langs/?username=MohammadUmar0786&layout=compact&theme=tokyonight)
 
 
-
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MohammadUmar0786&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/MohammadUmar0786)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MohammadUmar0786)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
