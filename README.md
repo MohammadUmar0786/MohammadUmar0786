@@ -5,12 +5,12 @@
 
 ## 🚀 About Me
 
-- 💻 Learning web development
+- 💻 Learning Fullstack Web Development
 - Practiced & learned Frontend Technologies ( HTML, CSS, Javascript, Typescript, React & Talwind ) through various projects
-- 🧠 Currently Learning Backend and Revising Frontend   
+- 🧠 Currently Learning Backend
+- 🚀 Currently working on Netflix like frontend clone project also
 - 👉 Open for Frontend Dev Roles (Any Location)
 - 📢 Sharing learning progress on LinkedIn regularly
-
 
   ## 🧰 Tools & Technologies
 
