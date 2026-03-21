@@ -8,7 +8,7 @@
 - 💻 Learning Fullstack Web Development
 - Practiced & learned Frontend Technologies ( HTML, CSS, Javascript, Typescript, React & Talwind ) through various projects
 - 🧠 Currently Learning Backend
-- 🚀 Currently working on Netflix like frontend clone project also
+- 🚀 Major frontend react projects- Swiggy clone & Netflix clone
 - 👉 Open for Frontend Dev Roles (Any Location)
 - 📢 Sharing learning progress on LinkedIn regularly
 
